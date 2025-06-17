@@ -14,8 +14,8 @@ Welcome to the official starter kit for the **AIWA Hackathon**, an AI-focused co
 
 ## 📂 Directory Structure
 
-- [`AIWA-CLI.md`](./AIWA-CLI.md) – Full guide to using the AIWA CLI tool
-- [`SALESFORCE-STARTER.md`](./SALESFORCE-STARTER.md) – Guide to setting up your Salesforce Developer Org
+- [`AIWA-CLI.md`](./Aiwa-Cli.md) – Full guide to using the AIWA CLI tool
+- [`SALESFORCE-STARTER.md`](./Salesforce-Starter.md) – Guide to setting up your Salesforce Developer Org
 - `assets/` – Images and diagrams used in the documentation
 - `templates/` – (Optional) Local starter project templates
 
