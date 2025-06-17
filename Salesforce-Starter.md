@@ -75,7 +75,7 @@
     • <a href="https://help.salesforce.com/s/articleView?id=data.c360_a_product_considerations.htm&type=5" target="_blank">Get started with Data Cloud</a><br />
     • <a href="https://www.apexhours.com/getting-started-with-salesforce-data-cloud/" target="_blank">First steps into Data Cloud</a>
   </div>
-<br />
+<hr />
   <div class="footer">
     Made with 💙 by Aiwa Team
   </div>

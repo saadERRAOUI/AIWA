@@ -1,6 +1,6 @@
 # 🎯 AIWA Hackathon – Starter Tech Pack
 
-Welcome to the official starter kit for the **AIWA Hackathon**, an AI-focused competition taking place in Morocco. This repository provides participants with everything they need to start building powerful and innovative projects using modern web technologies and Salesforce’s AI & Data Cloud stack.
+This repository provides the official starter resources for the **AIWA Hackathon** — a 48-hour AI innovation sprint held in Safi, Morocco. It includes tools and setup guides to help participants efficiently prototype their ideas using modern web technologies and Salesforce’s AI & Data Cloud stack.
 
 ## 🧰 What's Inside
 
@@ -15,12 +15,12 @@ Welcome to the official starter kit for the **AIWA Hackathon**, an AI-focused co
 - `assets/` – Images and diagrams used in the documentation
 - `templates/` – (Optional) Local starter project templates
 
----
-
 ## 💬 Need Help?
 
-Reach out to the AIWA hackathon team via Discord or Slack during the event.
+Reach out to the AIWA hackathon team during the event.
 
 Good luck, and happy hacking! 💡
+
+---
 
 Made with 💙 by Aiwa Team

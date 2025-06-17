@@ -52,6 +52,6 @@
     <li>npm or yarn</li>
   </ul>
 </body>
-<br/>
+<hr/>
     <p>Made with 💙 by Aiwa Team</p>
 </html>
