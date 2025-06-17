@@ -52,6 +52,7 @@
     <li>npm or yarn</li>
   </ul>
 
+  <h2>🌐 Useful Links</h2>
   <p>
     Here is the link to the AIWA CLI npm package: <br>
     🔗 <a href="https://www.npmjs.com/package/aiwa-cli" target="_blank">https://www.npmjs.com/package/aiwa-cli</a>
