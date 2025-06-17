@@ -4,62 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Salesforce Developer Org Setup</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9fafb;
-      color: #1f2937;
-      padding: 2rem;
-      line-height: 1.7;
-      max-width: 850px;
-      margin: auto;
-    }
-    h1 {
-      font-size: 2.5rem;
-      color: #0f172a;
-    }
-    h2 {
-      font-size: 1.6rem;
-      margin-top: 2rem;
-      color: #2563eb;
-    }
-    h3 {
-      font-size: 1.25rem;
-      margin-top: 1.5rem;
-      color: #0f172a;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .note {
-      background-color: #e0f2fe;
-      border-left: 4px solid #38bdf8;
-      padding: 0.75rem;
-      margin: 1rem 0;
-      font-size: 0.95rem;
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    .footer {
-      margin-top: 3rem;
-      font-style: italic;
-      color: #64748b;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #e5e7eb;
-      margin: 2rem 0;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>🚀 Salesforce Developer Org Setup with Agentforce & Data Cloud</h1>
+<h1>🚀 Salesforce Developer Org Setup with Agentforce & Data Cloud</h1>
 
   <p>Welcome! This guide walks you through creating a <strong>Salesforce Developer Org</strong> preloaded with the power of <strong>Agentforce</strong> and <strong>Data Cloud</strong> — all in one seamless environment.</p>
 
@@ -133,7 +78,7 @@
     • <a href="https://help.salesforce.com/s/articleView?id=data.c360_a_product_considerations.htm&type=5" target="_blank">Get started with Data Cloud</a><br />
     • <a href="https://www.apexhours.com/getting-started-with-salesforce-data-cloud/" target="_blank">First steps into Data Cloud</a>
   </div>
-
+<br />
   <div class="footer">
     Made with 💙 by Aiwa Team
   </div>
