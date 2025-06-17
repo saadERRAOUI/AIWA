@@ -2,19 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AIWA CLI - Starter Tool</title>
 </head>
 <body>
   <h1>🚀 AIWA CLI</h1>
   <p>A command-line tool to quickly generate AIWA starter projects.</p>
 
-  <hr>
 
   <h2>🧭 Installation</h2>
   <p>Install AIWA CLI globally using npm:</p>
   <pre><code>npm install -g aiwa-cli</code></pre>
 
-  <hr>
 
   <h2>⚙️ Usage</h2>
   <p>Once installed, you can run the <code>aiwa</code> command in your terminal:</p>
@@ -25,8 +22,6 @@
     <li>For frontend projects, choose from: <strong>React</strong>, <strong>Angular</strong>, or <strong>React Native</strong></li>
     <li>For backend projects, choose from: <strong>Spring</strong> or <strong>Express</strong></li>
   </ul>
-
-  <hr>
 
   <h2>🧱 Available Frameworks</h2>
   <h3>Frontend</h3>
@@ -42,7 +37,6 @@
     <li>Express</li>
   </ul>
 
-  <hr>
 
   <h2>🛠 Features</h2>
   <ul>
@@ -51,7 +45,6 @@
     <li>Removal of <code>.git</code> folders for a clean Git history</li>
   </ul>
 
-  <hr>
 
   <h2>📋 Development Requirements</h2>
   <ul>
@@ -59,5 +52,6 @@
     <li>npm or yarn</li>
   </ul>
 </body>
+<br/>
     <p>Made with 💙 by Aiwa Team</p>
 </html>
