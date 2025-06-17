@@ -1,6 +1,6 @@
 # 🎯 AIWA Hackathon – Starter Tech Pack
 
-This repository provides the official starter resources for the **AIWA Hackathon** — a 48-hour AI innovation sprint held in Safi, Morocco. It includes tools and setup guides to help participants efficiently prototype their ideas using modern web technologies and Salesforce’s AI & Data Cloud stack.
+This repository provides the official starter resources for the **AIWA Hackathon** — a 48-hour AI innovation event held in Safi, Morocco. It includes tools and setup guides to help participants efficiently prototype their ideas using modern web technologies and Salesforce’s AI & Data Cloud stack.
 
 ## 🧰 What's Inside
 
@@ -12,8 +12,6 @@ This repository provides the official starter resources for the **AIWA Hackathon
 
 - [`AIWA-CLI.md`](./Aiwa-Cli.md) – Full guide to using the AIWA CLI tool
 - [`SALESFORCE-STARTER.md`](./Salesforce-Starter.md) – Guide to setting up your Salesforce Developer Org
-- `assets/` – Images and diagrams used in the documentation
-- `templates/` – (Optional) Local starter project templates
 
 ## 💬 Need Help?
 
