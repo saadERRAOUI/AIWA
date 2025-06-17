@@ -7,7 +7,6 @@
 
   <p>Welcome! This guide walks you through creating a <strong>Salesforce Developer Org</strong> preloaded with the power of <strong>Agentforce</strong> and <strong>Data Cloud</strong> — all in one seamless environment.</p>
 
-  <hr />
 
   <h2>📦 What You’ll Get</h2>
 
@@ -19,7 +18,6 @@
 
   <p>All features are enabled <strong>without needing to connect another org</strong>.</p>
 
-  <hr />
 
   <h2>🛠️ Quick Start Guide</h2>
 
