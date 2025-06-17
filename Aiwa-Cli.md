@@ -51,6 +51,11 @@
     <li>Node.js (version 18 or higher)</li>
     <li>npm or yarn</li>
   </ul>
+
+  <p>
+    Here is the link to the AIWA CLI npm package: <br>
+    🔗 <a href="https://www.npmjs.com/package/aiwa-cli" target="_blank">https://www.npmjs.com/package/aiwa-cli</a>
+  </p>
 </body>
 <hr/>
     <p>Made with 💙 by Aiwa Team</p>
