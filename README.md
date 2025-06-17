@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Salesforce Developer Org Setup</title>
 <h1>🚀 Salesforce Developer Org Setup with Agentforce & Data Cloud</h1>
 
   <p>Welcome! This guide walks you through creating a <strong>Salesforce Developer Org</strong> preloaded with the power of <strong>Agentforce</strong> and <strong>Data Cloud</strong> — all in one seamless environment.</p>
